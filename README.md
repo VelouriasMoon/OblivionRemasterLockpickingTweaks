@@ -7,8 +7,8 @@ How Security skill factors into lockpicking in the vanilla game is honestly kind
 With this mod each skill milestone will allow 1 tumbler to stay locked in no matter how many times you fail. So Apprentice you get one tumbler to stay locked in, Journeyman 2, Expert 3, this adds, in my opinion, a much more gradual and noticable improvement to the minigame at the lower levels of the skill and with weaker locks without restoring to cheesing or the skeleton key.
 
 ### Credits
-[Detours](https://github.com/microsoft/Detours) - For function hooking
-[Dumper-7](https://github.com/Encryqed/Dumper-7) - unreal class and api dumping
-[magic_enum](https://github.com/Neargye/magic_enum) - enum handling
-[OBSE64](https://www.github.com/ianpatt/obse64) - Plugin Loading
-[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - Plugin Loading
+[Detours](https://github.com/microsoft/Detours) - For function hooking  
+[Dumper-7](https://github.com/Encryqed/Dumper-7) - unreal class and api dumping  
+[magic_enum](https://github.com/Neargye/magic_enum) - enum handling  
+[OBSE64](https://www.github.com/ianpatt/obse64) - Plugin Loading  
+[Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - Plugin Loading  
